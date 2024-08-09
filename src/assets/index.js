@@ -6,6 +6,8 @@ export const Images = {
 	LocationPin: require('./images/location-pin.svg'),
 	Share: require('./images/share.svg'),
 	SampleHouse: require('./images/sample-house.svg'),
+	BackgroungImage: require('./images/bg-image.png'),
+	Star: require('./images/star.png'),
 }
 
 export const Fonts = {
